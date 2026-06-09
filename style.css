@@ -2,13 +2,13 @@
 body { 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     text-align: center; 
-    background-color: #0f172a; /* Your preferred dark theme */
+    background-color: #0f172a; 
     color: white; 
     margin: 0;
     padding: 20px;
 }
 
-/* Positioning "Prepared by DEMON" at the top left */
+/* Positioning "Prepared by DEMON" */
 .prepared-by {
     position: absolute;
     top: 10px;
@@ -23,30 +23,25 @@ h1 {
     margin-bottom: 30px;
 }
 
-/* Grid Layout for Books */
+/* Grid Layout */
 .library-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
     padding: 20px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
-/* Individual Book Card Styling */
+/* Book Card Styling */
 .book-card {
-    background-color: #1e293b; /* Dark card background */
+    background-color: #1e293b; 
     padding: 15px;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     transition: transform 0.2s;
 }
 
-.book-card:hover {
-    transform: scale(1.05); /* Slight pop effect on hover */
-}
-
-/* Book Cover Images */
 .book-card img {
     width: 100%;
     height: 220px;
@@ -55,14 +50,35 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* "Read Book" Button */
+/* Button Styling (The Auto-Read Button) */
+button {
+    display: block;
+    width: 100%;
+    background-color: #3b82f6; 
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
+
+/* "Read Book" Link Styling */
 .book-card a {
     display: block;
-    margin-top: 10px;
     padding: 10px;
-    background-color: #e11d48; /* Your bright accent color */
+    background-color: #e11d48; 
     color: white;
     text-decoration: none;
     border-radius: 8px;
     font-weight: bold;
+}
+
+.book-card a:hover {
+    background-color: #be123c;
 }
