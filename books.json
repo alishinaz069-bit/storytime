@@ -1,14 +1,8 @@
 [
   {
-    "title": "The Magic Tree",
-    "image": "books/tree.jpg",
-    "file": "books/tree.pdf",
-    "story": "Once upon a time in a magical forest, there lived a tree that could talk to the animals. Every day, the animals would come to hear its wonderful tales."
-  },
-  {
-    "title": "The Brave Little Bunny",
-    "image": "books/bunny.jpg",
-    "file": "books/bunny.pdf",
-    "story": "The little bunny was very small, but he had the biggest heart in the meadow. He showed all his friends that even the smallest creatures can be brave."
+    "title": "Lumi and the Lost Blanket Illustrated",
+    "image": "books/Lumi_and_the_Lost_Blanket_Illustrated.jpg",
+    "file": "books/Lumi_and_the_Lost_Blanket_Illustrated.pdf",
+    "story": "Lumi was a little fox who loved her soft, warm blanket more than anything. One windy day, the blanket blew away! Lumi went on a grand adventure through the forest to find her lost friend."
   }
 ]
