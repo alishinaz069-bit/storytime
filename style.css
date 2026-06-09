@@ -8,18 +8,29 @@ body {
     padding: 20px;
 }
 
-/* Positioning "Prepared by DEMON" */
+/* Positioning "Prepared by DEMON" with Profile Picture */
 .prepared-by {
     position: absolute;
-    top: 10px;
+    top: 15px;
     left: 20px;
-    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 12px; 
     color: #94a3b8;
     font-style: italic;
+    font-size: 1rem;
+}
+
+.profile-pic {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%; /* Makes it a circle */
+    object-fit: cover;
+    border: 2px solid #334155;
 }
 
 h1 {
-    margin-top: 40px;
+    margin-top: 60px; /* Added space to avoid overlapping with profile pic */
     margin-bottom: 30px;
 }
 
@@ -50,7 +61,7 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* Button Styling (The Auto-Read Button) */
+/* Auto-Read Button Styling */
 button {
     display: block;
     width: 100%;
@@ -62,13 +73,14 @@ button {
     cursor: pointer;
     font-weight: bold;
     margin-bottom: 10px;
+    transition: background 0.2s;
 }
 
 button:hover {
     background-color: #2563eb;
 }
 
-/* "Read Book" Link Styling */
+/* Read Book Link Styling */
 .book-card a {
     display: block;
     padding: 10px;
