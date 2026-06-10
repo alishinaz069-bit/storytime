@@ -1,8 +1,14 @@
 [
   {
     "title": "Lumi and the Lost Blanket Illustrated",
-    "image": "books/Lumi_and_the_Lost_Blanket_Illustrated.jpg",
-    "file": "books/Lumi_and_the_Lost_Blanket_Illustrated.pdf",
-    "story": "Lumi was a little fox who loved her soft, warm blanket more than anything. One windy day, the blanket blew away! Lumi went on a grand adventure through the forest to find her lost friend."
+    "image": "lumi.jpg",
+    "file": "lumi.pdf",
+    "story": "Lumi was searching for her favorite blanket, but it was nowhere to be found in the glowing forest."
+  },
+  {
+    "title": "The Secret of the Whispering Lighthouse",
+    "image": "lighthouse.jpg",
+    "file": "lighthouse.pdf",
+    "story": "Deep on the jagged cliffs stood a lighthouse that didn't just shine—it whispered secrets to those who listened closely."
   }
 ]
