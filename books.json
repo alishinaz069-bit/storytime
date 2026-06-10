@@ -1,14 +1,14 @@
 [
   {
     "title": "Lumi and the Lost Blanket Illustrated",
-    "image": "images/lumi.jpg",
-    "file": "lumi.pdf",
+    "image": "books/lumi.jpg",
+    "file": "books/lumi.pdf",
     "story": "Lumi was searching for her favorite blanket, but it was nowhere to be found in the glowing forest."
   },
   {
     "title": "The Secret of the Whispering Lighthouse",
-    "image": "lighthouse.jpg",
-    "file": "lighthouse.pdf",
+    "image": "books/lighthouse.jpg",
+    "file": "books/lighthouse.pdf",
     "story": "Deep on the jagged cliffs stood a lighthouse that didn't just shine—it whispered secrets to those who listened closely."
   }
 ]
