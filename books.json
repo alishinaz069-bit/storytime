@@ -3,12 +3,18 @@
     "title": "Lumi and the Lost Blanket Illustrated",
     "image": "books/lumi.jpg",
     "file": "books/lumi.pdf",
-    "story": "Lumi was searching for her favorite blanket, but it was nowhere to be found in the glowing forest."
+    "story": "Lumi was searching for her favorite blanket..."
   },
   {
     "title": "The Secret of the Whispering Lighthouse",
     "image": "books/lighthouse.jpg",
     "file": "books/lighthouse.pdf",
-    "story": "Deep on the jagged cliffs stood a lighthouse that didn't just shine—it whispered secrets to those who listened closely."
+    "story": "Deep on the jagged cliffs..."
+  },
+  {
+    "title": "The Clockmaker's Secret",
+    "image": "books/clockmaker.jpg",
+    "file": "books/clockmaker.pdf",
+    "story": "Maya discovers a mysterious watch in an old clock tower that reveals secrets from the past."
   }
 ]
