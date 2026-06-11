@@ -16,5 +16,11 @@
     "image": "books/clockmaker.jpg",
     "file": "books/clockmaker.pdf",
     "story": "Maya discovers a mysterious watch in an old clock tower that reveals secrets from the past."
+  },
+  {
+    "title": "The Lighthouse Beyond the Storm",
+    "image": "books/lighthouse.jpg",
+    "file": "books/lighthouse.pdf",
+    "story": "A brave keeper discovers a secret signal hidden in the waves during a great storm."
   }
 ]
