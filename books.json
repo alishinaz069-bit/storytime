@@ -15,12 +15,18 @@
     "title": "The Clockmaker's Secret",
     "image": "books/clockmaker.jpg",
     "file": "books/clockmaker.pdf",
-    "story": "Maya discovers a mysterious watch in an old clock tower that reveals secrets from the past."
+    "story": "Maya discovers a mysterious watch in an old clock tower."
   },
   {
     "title": "The Door in the Library",
     "image": "books/door.jpg",
     "file": "books/door.pdf",
-    "story": "Ava discovers a hidden room filled with glass bottles containing forgotten memories."
+    "story": "Ava discovers a hidden room filled with forgotten memories."
+  },
+  {
+    "title": "The Lighthouse Beyond the Storm",
+    "image": "books/storm_cover.jpg",
+    "file": "books/storm_story.pdf",
+    "story": "A brave keeper discovers a secret signal hidden in the waves."
   }
 ]
