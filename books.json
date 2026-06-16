@@ -28,5 +28,11 @@
     "image": "books/storm_cover.jpg",
     "file": "books/storm_story.pdf",
     "story": "A brave keeper discovers a secret signal hidden in the waves."
+  },
+  {
+    "title": "The Last Train to Midnight",
+    "image": "books/train.jpg",
+    "file": "books/train.pdf",
+    "story": "Seventeen-year-old Noah discovers an abandoned station that isn't quite as empty as it seems."
   }
 ]
