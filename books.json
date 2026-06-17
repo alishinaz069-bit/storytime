@@ -33,6 +33,12 @@
     "title": "The Last Train to Midnight",
     "image": "books/train.jpg",
     "file": "books/train.pdf",
-    "story": "Seventeen-year-old Noah discovers an abandoned station that isn't quite as empty as it seems."
+    "story": "Noah discovers an abandoned station that isn't empty as it seems."
+  },
+  {
+    "title": "The Mermaid of Moonstone Lagoon",
+    "image": "books/mermaid.jpg",
+    "file": "books/mermaid.pdf",
+    "story": "Deep beneath the silver waters, a secret is waiting to be found."
   }
 ]
